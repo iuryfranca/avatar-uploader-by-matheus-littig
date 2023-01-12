@@ -1,0 +1,10 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "material-icon-theme.folders.associations": {
+    "elements": "middleware",
+    ".jest": "test",
+    ".next": "vercel"
+},
+}
