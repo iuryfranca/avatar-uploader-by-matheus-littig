@@ -18,9 +18,9 @@
     "resolveJsonModule": true,
     "isolatedModules": true,
     "jsx": "preserve",
-    "baseUrl": ".",
-    "paths": {
-      "@/*": ["src/*", "public/*"],
+    "baseUrl": ".", 
+    "paths": { 
+      "@/*": ["./src/*"] 
     }
   },
   "include": [
